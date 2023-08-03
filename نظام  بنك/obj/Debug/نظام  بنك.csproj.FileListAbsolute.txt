@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2015\Projects\نظام  بنك\نظام  بنك\bin\Debug\نظام  بنك.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\نظام  بنك\نظام  بنك\obj\Debug\نظام  بنك.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\نظام  بنك\نظام  بنك\bin\Debug\نظام  بنك.exe
+c:\users\administrator\documents\visual studio 2015\Projects\نظام  بنك\نظام  بنك\bin\Debug\نظام  بنك.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\نظام  بنك\نظام  بنك\obj\Debug\نظام  بنك.exe
+c:\users\administrator\documents\visual studio 2015\Projects\نظام  بنك\نظام  بنك\obj\Debug\نظام  بنك.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\نظام  بنك معدل\نظام  بنك\bin\Debug\نظام  بنك.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\نظام  بنك معدل\نظام  بنك\obj\Debug\نظام  بنك.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\نظام  بنك معدل\نظام  بنك\obj\Debug\نظام  بنك.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\نظام  بنك معدل\نظام  بنك\bin\Debug\نظام  بنك.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\نظام  بنك معدل\نظام  بنك\bin\Debug\نظام  بنك.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\نظام  بنك معدل\نظام  بنك\obj\Debug\نظام  بنك.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projects\نظام  بنك معدل\نظام  بنك\bin\Debug\نظام  بنك.exe.config
+C:\Users\Administrator\Desktop\Projects\نظام  بنك معدل\نظام  بنك\obj\Debug\نظام  بنك.exe
+C:\Users\Administrator\Desktop\Projects\نظام  بنك معدل\نظام  بنك\obj\Debug\نظام  بنك.pdb
+C:\Users\Administrator\Desktop\Projects\نظام  بنك معدل\نظام  بنك\bin\Debug\نظام  بنك.exe
+C:\Users\Administrator\Desktop\Projects\نظام  بنك معدل\نظام  بنك\bin\Debug\نظام  بنك.pdb
+C:\Users\Administrator\Desktop\Projects\نظام  بنك معدل\نظام  بنك\obj\Debug\نظام  بنك.csprojResolveAssemblyReference.cache
